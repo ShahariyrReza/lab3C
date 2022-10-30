@@ -33,7 +33,7 @@
         p[pos]=temp;
     }
 
-    wt[0]=0;
+    wt[0]=0; // waiting time start from zero
 
 
     for(i=1;i<n;i++)
